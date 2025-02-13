@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.9](https://github.com/peter-ellavationlabs/marketplace-partner-apps/compare/bynder-content-workflow-v1.0.8...bynder-content-workflow-v1.0.9) (2025-02-13)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/app-sdk from 4.29.1 to 4.29.2 in /apps/bynder-content-workflow in the production-dependencies group ([#3382](https://github.com/peter-ellavationlabs/marketplace-partner-apps/issues/3382)) ([cfeadbf](https://github.com/peter-ellavationlabs/marketplace-partner-apps/commit/cfeadbf541c8d77d0a3f17983403f1a450104f75))
+* **deps:** bump @contentful/f36-components from 4.74.0 to 4.74.1 in /apps/bynder-content-workflow in the production-dependencies group ([#3258](https://github.com/peter-ellavationlabs/marketplace-partner-apps/issues/3258)) ([7f3d7a7](https://github.com/peter-ellavationlabs/marketplace-partner-apps/commit/7f3d7a75e4464e96e3b8c45b9bb426a05b734981))
+* **deps:** bump @contentful/field-editor-rich-text from 3.28.0 to 3.28.2 in /apps/bynder-content-workflow in the production-dependencies group ([#3241](https://github.com/peter-ellavationlabs/marketplace-partner-apps/issues/3241)) ([2dc4c95](https://github.com/peter-ellavationlabs/marketplace-partner-apps/commit/2dc4c959fba3a5aec08266ccb7379c34d9d9907b))
+* **deps:** bump @contentful/field-editor-rich-text from 3.28.2 to 3.29.0 in /apps/bynder-content-workflow in the production-dependencies group ([#3271](https://github.com/peter-ellavationlabs/marketplace-partner-apps/issues/3271)) ([14cdc99](https://github.com/peter-ellavationlabs/marketplace-partner-apps/commit/14cdc994dffd3dbe3d0776c76d5b64287b23460b))
+* **deps:** bump @contentful/field-editor-rich-text from 3.29.0 to 3.30.0 in /apps/bynder-content-workflow in the production-dependencies group ([#3349](https://github.com/peter-ellavationlabs/marketplace-partner-apps/issues/3349)) ([2ddedd0](https://github.com/peter-ellavationlabs/marketplace-partner-apps/commit/2ddedd02c549b38d59aff16039d6a6020a9dc32e))
+* **deps:** bump contentful-rich-text-html-parser from 1.5.12 to 1.5.13 in /apps/bynder-content-workflow in the production-dependencies group ([#3243](https://github.com/peter-ellavationlabs/marketplace-partner-apps/issues/3243)) ([85efdc8](https://github.com/peter-ellavationlabs/marketplace-partner-apps/commit/85efdc8975e09a04ecc7d5e71baf0e4bb5bdf9d6))
+* **deps:** bump nanoid from 3.3.7 to 3.3.8 in /apps/bynder-content-workflow ([#3859](https://github.com/peter-ellavationlabs/marketplace-partner-apps/issues/3859)) ([9351b4d](https://github.com/peter-ellavationlabs/marketplace-partner-apps/commit/9351b4d9d1503c8f6b65af0303ddcc654f4d4cdf))
+
 ## [1.0.8](https://github.com/contentful/marketplace-partner-apps/compare/bynder-content-workflow-v1.0.7...bynder-content-workflow-v1.0.8) (2024-12-10)
 
 
