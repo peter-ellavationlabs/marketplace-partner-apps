@@ -22,7 +22,7 @@
     "install-apps:deploy": "lerna run install-ci --concurrency=1 --stream",
     "deploy:staging": "lerna run deploy:staging --concurrency=3",
     "deploy:production": "lerna run deploy --concurrency=3",
-    "prepare": "husky install"
+    "prepare": "husky install" 
   },
   "lint-staged": {
     "*.{t,j}s?(x)": [
